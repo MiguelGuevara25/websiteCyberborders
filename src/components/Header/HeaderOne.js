@@ -159,7 +159,7 @@ const HeaderOne = ({
                     >
                       <span className="icon"></span>
                       <span className="sub-text">Contáctanos</span>
-                      <span className="number">+1 631 355 9575</span>
+                      <span className="number">+595 981 318970</span>
                     </a>
                   </div>
                 </div>

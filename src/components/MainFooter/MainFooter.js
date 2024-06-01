@@ -99,17 +99,17 @@ const MainFooter = ({ normalPadding = true }) => {
                         href={`mailto:miguel.carrion@cyberborders.com`}
                         className="text-white"
                       >
-                        miguel.carrion@cyberborders.com
+                        info@cyberborders.com.py
                       </a>
                     </li>
 
                     <li>
-                      <span className="icon flaticon-email-2 text-white"></span>
+                      <span className="icon flaticon-pin text-white"></span>
                       <a
-                        href={`mailto:manuel.hinojosa@cyberborders.com`}
+                        href={`mailto:miguel.carrion@cyberborders.com`}
                         className="text-white"
                       >
-                        manuel.hinojosa@cyberborders.com
+                        Soldado Ovelar 1515, Fernando de la Mora, Paraguay
                       </a>
                     </li>
                   </ul>

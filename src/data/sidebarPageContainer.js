@@ -2,7 +2,7 @@ export const sidebar = {
   title: "Productos Estratégicos",
   title2: "¿Necesitas ayuda?",
   text: "Contáctanos ahora, para poder aclarar tus dudas y brindarte la mejor asesoría.",
-  phone: "+1 631 355 9575",
+  phone: "+595 981318970",
   navItems: [
     {
       id: 1,

@@ -1,7 +1,7 @@
 import demoBg from "@/images/background/footer-bg-2.jpg";
 import logo from "@/images/logoCyberborderVertical.png";
 
-export const footer = { year: new Date().getFullYear(), author: "Cyberborder" };
+export const footer = { year: new Date().getFullYear(), author: "Cyberborders" };
 
 export const mainFooterDemo = {
   ...footer,
@@ -25,7 +25,7 @@ export const mainFooter = {
   address3: "66 Mark Street, New Town DC 5752, Lo New York",
   address2:
     "214 Gold Street Round Road. 66 \n Code New York, United States \n of America",
-  phone: "+1 631 355 9575",
+  phone: "+595 981 318970",
   phone2: "+92 3333 222 000",
   email: "info@cyberboder.com",
   textBottom:

@@ -29,15 +29,15 @@ const GetQuoteTwo = ({ className = "" }) => {
                     <span className="icon flaticon-email-2"></span>
                     <strong style={{ color: "#686a6f" }}>Correo</strong>
                     <a href={`mailto:miguel.carrion@cyberborders.com`}>
-                      miguel.carrion@cyberborders.com
+                      info@cyberborders.com.py
                     </a>
                   </li>
 
                   <li>
-                    <span className="icon flaticon-email-2"></span>
-                    <strong style={{ color: "#686a6f" }}>Correo</strong>
+                    <span className="icon flaticon-pin"></span>
+                    <strong style={{ color: "#686a6f" }}>Dirección</strong>
                     <a href={`mailto:manuel.hinojosa@cyberborders.com`}>
-                      manuel.hinojosa@cyberborders.com
+                      Soldado Ovelar 1515, Fernando de la Mora, Paraguay
                     </a>
                   </li>
 

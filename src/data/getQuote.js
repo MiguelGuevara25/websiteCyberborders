@@ -3,7 +3,7 @@ export const getQuoteTwo = {
   text: "Si tienes alguna consulta, no dudes en contactarnos, nuestro equipo de expertos estará encantado de ayudarte.",
   address: "66 Broklyn Street, New York. USA",
   email: "info@cyberboder.com",
-  phone: "+1 631 355 9575",
+  phone: "+595 981 318970",
   phone2: "+34 656 94 23 95",
   inputs: [
     {
