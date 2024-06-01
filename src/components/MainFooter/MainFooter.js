@@ -38,7 +38,7 @@ const MainFooter = ({ normalPadding = true }) => {
                           id="fLogo"
                           src={logo.src}
                           alt=""
-                          style={{ height: 100 }}
+                          style={{ height: 150 }}
                         />
                       </a>
                     </Link>
