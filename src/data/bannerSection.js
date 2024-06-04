@@ -28,13 +28,13 @@ export const bannerOne = {
     {
       id: 1,
       bg: "principalImage.png",
-      title: "Protección en puertos carreras y fronteras",
-      text: "Incorporación de las Más Moderna Tecnología",
+      title: "Sistema integral de control instrusivo",
+      text: "Garantía de Integridad de Mercancías",
     },
 
     {
       id: 2,
-      bg: "principalImage.png",
+      bg: "paraguay.png",
       title: "Protección en puertos carreras y fronteras",
       text: "Incorporación de las Más Moderna Tecnología",
     },

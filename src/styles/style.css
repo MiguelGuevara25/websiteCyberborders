@@ -2832,7 +2832,7 @@ img.lazy-image.loaded {
   transition: all 1000ms ease;
   -webkit-transition-delay: 200ms;
   transition-delay: 200ms;
-  transform: scaleX(-1);
+  /* transform: scaleX(-1); */
 }
 
 .banner-carousel .slide-item .round-image:before {
