@@ -22363,7 +22363,7 @@ img.lazy-image.loaded {
   transition: all 500ms ease;
 }
 
-.service-eight__card:hover a {
+.service-eight__card:hover h3 {
   color: white;
 }
 
@@ -22372,11 +22372,11 @@ img.lazy-image.loaded {
 }
 
 .service-eight__card:hover .service-eight__card__inner {
-  border-color: var(--thm-black);
+  border-color: white;
 }
 
 .service-eight__card:hover .service-eight__card__inner::after {
-  background-color: var(--thm-black);
+  background-color: white;
 }
 
 .service-eight__card:hover .service-eight__card__inner::before {

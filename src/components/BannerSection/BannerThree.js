@@ -22,39 +22,13 @@ const settings = {
   autoplayButtonOutput: false,
 };
 
-const { dayRange, timeRange, socials, bg, bannersTwo } = bannerOne;
+const { bg, bannersTwo } = bannerOne;
 
 const BannerThree = () => {
   const listRef = useRef(null);
 
   return (
     <section className="banner-section banner-three">
-      {/* <div className="left-based-text">
-        <div className="base-inner">
-          <div className="hours">
-            <ul className="clearfix">
-              <li>
-                <span>{dayRange}</span>
-              </li>
-              <li>
-                <span>{timeRange}</span>
-              </li>
-            </ul>
-          </div>
-          <div className="social-links">
-            <ul className="clearfix">
-              {socials.map(({ id, title, href }) => (
-                <li key={id}>
-                  <a href={href}>
-                    <span>{title}</span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-      </div> */}
-
       <div
         className="bg-image"
         style={{ backgroundImage: `url(${bg.src})` }}

@@ -1,9 +1,8 @@
-import Link from "next/link";
 import React, { forwardRef } from "react";
 import TextSplit from "../Reuseable/TextSplit";
 
 const SlideItemThree = ({ slide = {} }, ref) => {
-  const { bg, title, text } = slide;
+  const { title, text } = slide;
 
   return (
     <div style={{ userSelect: "none" }} ref={ref} className="slide-item">
@@ -13,7 +12,7 @@ const SlideItemThree = ({ slide = {} }, ref) => {
           className="image"
           style={{
             backgroundImage: `url(${
-              require(`../../assets/images/principalImage.png`).default.src
+              require(`../../../public/paraguay.png`).default.src
             })`,
           }}
         ></div>
@@ -26,14 +25,6 @@ const SlideItemThree = ({ slide = {} }, ref) => {
                 <TextSplit text={title} />
               </h1>
               <div className="text text-white">{text}</div>
-              {/* <div className="link-box">
-                <Link href="/about">
-                  <a className="theme-btn btn-style-two">
-                    <i className="btn-curve"></i>
-                    <span className="btn-title">Discover More</span>
-                  </a>
-                </Link>
-              </div> */}
             </div>
           </div>
         </div>

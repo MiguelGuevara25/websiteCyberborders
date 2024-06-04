@@ -23,45 +23,28 @@ export const bannerTwo = [
 
 export const bannerOne = {
   bg,
-  // dayRange: "mon - fri",
-  // timeRange: "9am - 7pm",
-  socials: [
-    {
-      id: 1,
-      href: "#",
-      title: "Twitter",
-    },
-    {
-      id: 2,
-      href: "#",
-      title: "Facebook",
-    },
-    {
-      id: 3,
-      href: "#",
-      title: "Youtube",
-    },
-  ],
   banners: bannerTwo,
   bannersTwo: [
     {
       id: 1,
       bg: "principalImage.png",
-      title: "Sistema Integral de CONTROL NO INTRUSIVO",
-      text: "Garantía de Integridad de las Mercancías",
+      title: "Protección en puertos carreras y fronteras",
+      text: "Incorporación de las Más Moderna Tecnología",
     },
-    // {
-    //   id: 2,
-    //   bg: "image-1.jpg",
-    //   title: "Best Digital\nMarketing\nAgency",
-    //   text: "We are committed to providing our customers with exceptional service while offering our employees the best training.",
-    // },
-    // {
-    //   id: 3,
-    //   bg: "image-1.jpg",
-    //   title: "Best Digital\nMarketing\nAgency",
-    //   text: "We are committed to providing our customers with exceptional service while offering our employees the best training.",
-    // },
+
+    {
+      id: 2,
+      bg: "principalImage.png",
+      title: "Protección en puertos carreras y fronteras",
+      text: "Incorporación de las Más Moderna Tecnología",
+    },
+
+    {
+      id: 3,
+      bg: "principalImage.png",
+      title: "Protección en puertos carreras y fronteras",
+      text: "Incorporación de las Más Moderna Tecnología",
+    },
   ],
 };
 
