@@ -28,7 +28,7 @@ export const bannerOne = {
     {
       id: 1,
       bg: "principalImage.png",
-      title: "Sistema integral de control instrusivo",
+      title: "Sistema integral de control no instrusivo",
       text: "Garantía de Integridad de Mercancías",
     },
 
@@ -41,9 +41,9 @@ export const bannerOne = {
 
     {
       id: 3,
-      bg: "principalImage.png",
-      title: "Protección en puertos carreras y fronteras",
-      text: "Incorporación de las Más Moderna Tecnología",
+      bg: "imagenPrincipal2.jpg",
+      title: "Digitalización total: OCR y tótems",
+      text: "Un futuro sin papel",
     },
   ],
 };
