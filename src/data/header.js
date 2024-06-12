@@ -73,10 +73,6 @@ const navItems = [
     id: 8,
     name: "Contacto",
     href: "/contacto",
-    subNavItems: [
-      { id: 1, name: "América", href: "/contacto" },
-      { id: 2, name: "Europa", href: "/contacto-2" },
-    ],
   },
 ];
 
@@ -112,9 +108,9 @@ const headerData = {
   navItems,
   navItemsTwo,
   address: "Suite 20 Golden Street USA",
-  phone: "666 888 0000",
+  phone: "+595 981 318970",
   phone2: "+ 92 666 888 0000",
-  email: "needhelp@linoor.com",
+  email: "info@cyberborders.com.py",
   icon,
   socials,
   text: "Linoor is a premium Template for Digital Agencies, Start Ups, Small Business and a wide range of other agencies.",

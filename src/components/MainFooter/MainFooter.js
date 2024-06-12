@@ -96,7 +96,7 @@ const MainFooter = ({ normalPadding = true }) => {
                     <li>
                       <span className="icon flaticon-email-2 text-white"></span>
                       <a
-                        href={`mailto:miguel.carrion@cyberborders.com`}
+                        href={`mailto:info@cyberborders.com.py`}
                         className="text-white"
                       >
                         info@cyberborders.com.py
@@ -105,12 +105,11 @@ const MainFooter = ({ normalPadding = true }) => {
 
                     <li>
                       <span className="icon flaticon-pin text-white"></span>
-                      <a
-                        href={`mailto:miguel.carrion@cyberborders.com`}
+                      <p
                         className="text-white"
                       >
                         Soldado Ovelar 1515, Fernando de la Mora, Paraguay
-                      </a>
+                      </p>
                     </li>
                   </ul>
                 </div>
