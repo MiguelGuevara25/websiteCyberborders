@@ -41,13 +41,13 @@ const GetQuoteTwo = ({ className = "" }) => {
                     </a>
                   </li>
 
-                  <li>
+                  {/* <li>
                     <span className="icon flaticon-call"></span>
                     <strong style={{ color: "#686a6f" }}>
                       Número de contacto
                     </strong>
                     <a href={`tel:${phone.split(" ").join("")}`}>{phone}</a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>

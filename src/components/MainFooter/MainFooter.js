@@ -83,7 +83,7 @@ const MainFooter = ({ normalPadding = true }) => {
                       <span className="icon flaticon-pin-1 text-white"></span>{" "}
                       <TextSplit text={address} />
                     </li> */}
-                    <li>
+                    {/* <li>
                       <span className="icon flaticon-call text-white"></span>
                       <a
                         href={`tel:${phone.split(" ").join("")}`}
@@ -91,7 +91,7 @@ const MainFooter = ({ normalPadding = true }) => {
                       >
                         {phone}
                       </a>
-                    </li>
+                    </li> */}
 
                     <li>
                       <span className="icon flaticon-email-2 text-white"></span>

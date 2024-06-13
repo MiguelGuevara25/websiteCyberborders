@@ -152,14 +152,13 @@ const HeaderOne = ({
                   <div className="call-us">
                     <a
                       className="link"
-                      // href={`tel:${phone.split(" ").join("")}`}
-                      href={`https://wa.me/16313559575`}
+                      href={`mailto:info@cyberborders.com.py`}
                       target="_blank"
                       rel="noreferrer"
                     >
                       <span className="icon"></span>
                       <span className="sub-text">Contáctanos</span>
-                      <span className="number">+595 981 318970</span>
+                      <span className="number">info@cyberborders.com.py</span>
                     </a>
                   </div>
                 </div>
