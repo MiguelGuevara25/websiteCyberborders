@@ -339,7 +339,7 @@ export const gallerySectionThree = {
       image: "operateAgility.png",
       title: "Agilidad operativa",
       tagline:
-        "Esta solución permite una respuesta inmediata de las autoridades y los operadores de comercio exterior en casos de contaminación, delitos, accidentes o retrasos, aportando seguridad a la cadena de suministro global y una reducción de costos y tiempos operativos.",
+        "Esta solución permite una respuesta inmediata en casos de contaminación, delitos, accidentes o retrasos, aportando seguridad a la cadena de suministros global y una reducción de costos y tiempos operativos.",
     },
   ],
 };
