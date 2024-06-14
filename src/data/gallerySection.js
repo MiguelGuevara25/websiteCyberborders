@@ -330,9 +330,9 @@ export const gallerySectionThree = {
     {
       id: 3,
       image: "integrationSystem.png",
-      title: "Integración de un sistema único",
+      title: "Integración de sistemas",
       tagline:
-        "Nuestra solución integra diferentes tecnologías líderes en el mercado que son completos sistemas de seguridad en sí mismo y altamente eficientes. Estas tecnologías se integran para funcionar como un solo sistema de seguridad que aporta información valiosa y oportuna de control.",
+        "NUESTRA SOLUCIÓN INTEGRA DIFERENTES TECNOLOGÍAS DE SEGURIDAD NO INTRUSIVA, LÍDERES EN EL MERACDO Y ALTAMENTE EFICIENTES, FUNCIONANDO COMO UN SOLO GRAN SISTEMA QUE APORTA INFORMACIÓN VALIOSA Y OPORTUNA DE CONTROL",
     },
     {
       id: 4,
@@ -341,17 +341,5 @@ export const gallerySectionThree = {
       tagline:
         "Esta solución permite una respuesta inmediata de las autoridades y los operadores de comercio exterior en casos de contaminación, delitos, accidentes o retrasos, aportando seguridad a la cadena de suministro global y una reducción de costos y tiempos operativos.",
     },
-    // {
-    //   id: 5,
-    //   image: "project-1-5.jpg",
-    //   tagline: "Project List",
-    //   title: "Substantial Growth",
-    // },
-    // {
-    //   id: 6,
-    //   image: "project-1-6.jpg",
-    //   tagline: "Project List",
-    //   title: "Substantial Growth",
-    // },
   ],
 };
