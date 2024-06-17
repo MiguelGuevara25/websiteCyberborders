@@ -31,12 +31,12 @@ const SidebarSide = () => {
             <h4>{title2}</h4>
           </div>
           <div className="text">{text}</div>
-          <div className="phone">
+          {/* <div className="phone">
             <a href={`tel:${phone.split(" ").join("")}`}>
               <span className="icon flaticon-call"></span>
               {phone}
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </aside>
